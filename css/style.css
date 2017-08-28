@@ -10,6 +10,7 @@ body {
     background: url(https://source.unsplash.com/C0zDWAPFT9A);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 body, html {
@@ -34,4 +35,8 @@ hr {
     width: 400px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+nav .container {
+    width: 100%;
 }
