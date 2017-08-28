@@ -8,7 +8,7 @@
 
 body {
     background: url(https://source.unsplash.com/C0zDWAPFT9A);
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
