@@ -9,7 +9,7 @@
 body {
     background-image: url(https://source.unsplash.com/C0zDWAPFT9A);
     background-size: cover;
-    background-position: center;
+    /* background-position: center; */
     font-family: Lato;
     font-weight: 400;
     color: white;
