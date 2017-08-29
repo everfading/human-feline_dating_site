@@ -10,6 +10,7 @@ body {
     background: url(https://source.unsplash.com/C0zDWAPFT9A);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 
 }
 
